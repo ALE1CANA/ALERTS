@@ -1,0 +1,16 @@
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\bin\Debug\net6.0-windows\ALERTS.exe
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\bin\Debug\net6.0-windows\ALERTS.deps.json
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\bin\Debug\net6.0-windows\ALERTS.runtimeconfig.json
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\bin\Debug\net6.0-windows\ALERTS.dll
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\bin\Debug\net6.0-windows\ALERTS.pdb
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.Form1.resources
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.csproj.GenerateResource.cache
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.AssemblyInfoInputs.cache
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.AssemblyInfo.cs
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.csproj.CoreCompileInputs.cache
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.dll
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\refint\ALERTS.dll
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.pdb
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ALERTS.genruntimeconfig.cache
+C:\Users\salvi.21205\Desktop\ALERTS\ALERTS\obj\Debug\net6.0-windows\ref\ALERTS.dll
